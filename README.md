@@ -9,8 +9,12 @@ Requirements
 This code is based on the Online SVM code found at:
 https://github.com/Wotipati/Passive_Aggressive
 
+The supervised convolutional neural networks are found here :
+http://deeplearning.net/tutorial/lenet.html
+
 Convolutional Neural Networks 
 ---
+This code uses unsupervised contrastive divergence to pre-train the convolutional neural network. 
 
 Recurrent Neural Networks
 ---
