@@ -13,7 +13,7 @@ Convolutional Neural Networks
 This code is based on supervised convolutional neural networks are found here :
 http://deeplearning.net/tutorial/lenet.html
 
-This code uses unsupervised contrastive divergence to pre-train the convolutional neural network. 
+We have extended the model to allow unsupervised pre-training.
 
 Training
 ---
