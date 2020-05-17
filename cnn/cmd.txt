@@ -1,0 +1,1 @@
+export THEANO_FLAGS="base_compiledir=theano"
