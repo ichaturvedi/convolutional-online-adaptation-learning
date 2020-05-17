@@ -20,7 +20,9 @@ Training
 ---
 Train the model:
 python convolutional_mlp.py
+
  - The training data will be taken from 'training.pkl.gz'
+ - The tri-gram features are in the 'outputs' folder
 
 Recurrent Neural Networks
 ---
