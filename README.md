@@ -16,6 +16,12 @@ Convolutional Neural Networks
 ---
 This code uses unsupervised contrastive divergence to pre-train the convolutional neural network. 
 
+Training
+---
+Train the model:
+python convolutional_mlp.py
+ - The training data will be taken from 'training.pkl.gz'
+
 Recurrent Neural Networks
 ---
 
