@@ -25,7 +25,7 @@ python convolutional_mlp.py
 
 Recurrent Neural Networks
 ---
-Train the RNN
+Train the RNN:
 matlab -m crnn
 
  - The training data will be taken from 'set_train_rnn0'
