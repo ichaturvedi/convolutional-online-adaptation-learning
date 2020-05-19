@@ -25,6 +25,12 @@ python convolutional_mlp.py
 
 Recurrent Neural Networks
 ---
+Train the RNN
+matlab -m crnn
+
+ - The training data will be taken from 'set_train_rnn0'
+ - The output features are 'data_svm0.txt'
+
 
 Online SVM
 ---
