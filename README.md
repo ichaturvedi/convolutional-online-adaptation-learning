@@ -7,7 +7,7 @@ Requirements
 This code is based on the Online SVM code found at:
 https://github.com/Wotipati/Passive_Aggressive
 
-Convolutional Neural Networks 
+Convolutional Recurrent Neural Networks 
 ---
 
 This code is based on supervised convolutional neural networks are found here :
@@ -17,14 +17,12 @@ We have extended the model to allow unsupervised pre-training.
 
 Training
 ---
-Train the model:
+Train the CNN:
 python convolutional_mlp.py
 
  - The training data will be taken from 'training.pkl.gz'
  - The tri-gram features are in the 'outputs' folder
 
-Recurrent Neural Networks
----
 Train the RNN:
 matlab -m crnn
 
