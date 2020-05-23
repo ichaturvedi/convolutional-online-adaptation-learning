@@ -9,10 +9,6 @@ https://github.com/Wotipati/Passive_Aggressive
 
 Convolutional Recurrent Neural Networks 
 ---
-
-This code is based on supervised convolutional neural networks are found here :
-http://deeplearning.net/tutorial/lenet.html
-
 We have extended the model to allow unsupervised pre-training.
 
 Training
@@ -32,4 +28,8 @@ matlab -m crnn
 
 Online SVM
 ---
+Train the SVM
+la_svm -g 0.005 -c 1 ../format/train.lib
 
+Test the SVM
+python csv2lib.py test test.lib 0 False
