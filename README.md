@@ -28,8 +28,10 @@ matlab -m crnn
 
 Online SVM
 ---
-Train the SVM
+Train the SVM:
+
 la_svm -g 0.005 -c 1 ../format/train.lib
 
-Test the SVM
+Test the SVM:
+
 python csv2lib.py test test.lib 0 False
