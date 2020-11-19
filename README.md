@@ -1,6 +1,6 @@
 Convolutional Online Adaptation Learning
 ===
-This code implements the model discussed in Convolutional Online Adaptation Learning for Opinion Mining. Content is continously posted online from different domains. Hence, we propose a model that can be trained in one domain and predict sentiments in another domain. 
+This code implements the model discussed in the paper _Convolutional Online Adaptation Learning for Opinion Mining_. Content is continously posted online from different domains. Hence, we propose a model that can be trained in one domain and predict sentiments in another domain. 
 
 Requirements
 ---
