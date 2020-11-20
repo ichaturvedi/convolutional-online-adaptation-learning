@@ -1,4 +1,4 @@
-Convolutional Online Adaptation Learning
+Online Sentiment Classification of Text
 ===
 This code implements the model discussed in the paper _Convolutional Online Adaptation Learning for Opinion Mining_. Content is continously posted online from different domains. Hence, we propose a model that can be trained in one domain and predict sentiments in another domain. 
 
