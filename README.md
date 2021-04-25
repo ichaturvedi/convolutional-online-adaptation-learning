@@ -37,3 +37,7 @@ la_svm -g 0.005 -c 1 ../format/train.lib
 Test the SVM:
 
 python csv2lib.py test test.lib 0 False
+
+ICDM 2020 Sentire
+---
+https://screencast-o-matic.com/watch/cY63hZ78LO
