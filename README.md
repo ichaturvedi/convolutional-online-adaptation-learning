@@ -40,6 +40,6 @@ python csv2lib.py test test.lib 0 False
 
 ICDM 2020 Sentire
 ---
-Paper link : https://github.com/ichaturvedi/convolutional-online-adaptation-learning/blob/master/iti-COAL.pdf
+Paper link : https://ieeexplore.ieee.org/document/9346448
 
 Presentation : https://youtu.be/vmCG3tjs7sQ
