@@ -1,4 +1,4 @@
-Online Sentiment Classification of Text[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?hashtags=incrementallearning,nlp,domainadaptation&url=https://github.com/ichaturvedi/convolutional-online-adaptation-learning)
+Online Sentiment Classification of Text[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?hashtags=incrementallearning,nlp,domainadaptation,acl,emnlp&url=https://github.com/ichaturvedi/convolutional-online-adaptation-learning)
 ===
 This code implements the model discussed in the paper _Convolutional Online Adaptation Learning for Opinion Mining_. Content is continously posted online from different domains. Hence, we propose a model that can be trained in one domain and predict sentiments in another domain. 
 
